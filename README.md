@@ -1,6 +1,6 @@
 [![Header](https://github.com/k0d1kk/k0d1kk/blob/main/assets/header-bg-png.png)](https://www.instagram.com/k0d1kk/)
 
-<h1 aling="center">I'm young front-end developer and learn back-and ✌️👨‍💻</h1>
+## I'm young front-end developer and learn back-and ✌️👨‍💻
 
 ## Languages and Tools
 
