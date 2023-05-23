@@ -24,3 +24,5 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4f7db3)](http://vk.com/k0d1kk)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/k0d1kk)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100079926684355)
+
+![](https://github.com/k0d1kk/k0d1kk/main/assets/languages.svg)
