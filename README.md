@@ -1,6 +1,6 @@
 [![Header](https://github.com/k0d1kk/k0d1kk/blob/main/assets/header-bg-png.png)](https://www.instagram.com/k0d1kk/)
 
-## I'm june site developer
+## I'm young front-end developer and learn back-and ✌️👨‍💻
 
 ## Languages and Tools
 
@@ -16,6 +16,8 @@
 
 <!-- ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma) -->
 
+![Languages](https://github.com/k0d1kk/k0d1kk/blob/main/assets/languages.svg)
+
 ## Follow Me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/k0d1kk/)
@@ -24,5 +26,3 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4f7db3)](http://vk.com/k0d1kk)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/k0d1kk)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100079926684355)
-
-![Languages](https://github.com/k0d1kk/k0d1kk/blob/main/assets/languages.svg)
