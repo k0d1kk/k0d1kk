@@ -13,6 +13,14 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=7247b5)
 ![Next.Js](https://img.shields.io/badge/-Next.Js-090909?style=for-the-badge&logo=Next.js)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 
-Follow Me
+<!-- ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma) -->
+
+## Follow Me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/k0d1kk/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/k0d1kk)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007bb6)](https://www.linkedin.com/in/%D0%B4%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB-%D0%BF%D0%BE%D0%B3%D0%BE%D1%80%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-35a410266/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4f7db3)](http://vk.com/k0d1kk)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/k0d1kk)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100079926684355)
